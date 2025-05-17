@@ -23,7 +23,7 @@ const FleetPage = () => {
         ? 'حافلات مدرسية كبيرة مجهزة بالكامل مع مقاعد مريحة وأحزمة أمان وتكييف هواء. مثالية للمسافات الطويلة ومجموعات الطلاب الكبيرة.'
         : 'Fully-equipped large school buses with comfortable seats, seat belts, and air conditioning. Perfect for long distances and large student groups.',
       capacity: '45-55',
-      image: '/lovable-uploads/flyer-04.png',
+      image: '/assets-upload/flyer-04.png',
       features: [
         isRTL ? 'مكيف هواء' : 'Air Conditioning',
         isRTL ? 'أحزمة أمان' : 'Seat Belts',
@@ -40,7 +40,7 @@ const FleetPage = () => {
         ? 'حافلات مدرسية متوسطة الحجم توفر توازنًا مثاليًا بين السعة وسهولة التنقل. مجهزة بجميع ميزات السلامة المطلوبة من قبل هيئة الطرق والمواصلات.'
         : 'Medium-sized school buses offering a perfect balance between capacity and maneuverability. Equipped with all safety features required by RTA.',
       capacity: '30-40',
-      image: '/lovable-uploads/flyer-05.png',
+      image: '/assets-upload/flyer-05.png',
       features: [
         isRTL ? 'مكيف هواء' : 'Air Conditioning',
         isRTL ? 'أحزمة أمان' : 'Seat Belts',
@@ -57,7 +57,7 @@ const FleetPage = () => {
         ? 'حافلات مدرسية صغيرة مثالية للطرق الضيقة والمناطق السكنية. رشيقة وسهلة المناورة مع الحفاظ على جميع ميزات السلامة القياسية.'
         : 'Small school buses perfect for narrow roads and residential areas. Nimble and easy to maneuver while maintaining all standard safety features.',
       capacity: '15-25',
-      image: '/lovable-uploads/flyer-03.png',
+      image: '/assets-upload/flyer-03.png',
       features: [
         isRTL ? 'مكيف هواء' : 'Air Conditioning',
         isRTL ? 'أحزمة أمان' : 'Seat Belts',

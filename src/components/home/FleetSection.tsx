@@ -62,14 +62,14 @@ const FleetSection = () => {
           >
             <div className="absolute inset-x-8 top-0 bottom-0 z-10">
               <img 
-                src="/lovable-uploads/flyer-02.png" 
+                src="/assets-upload/flyer-02.png" 
                 alt="School Bus" 
                 className="w-full h-full object-cover rounded-lg shadow-xl" 
               />
             </div>
             <div className="absolute right-0 bottom-0 w-2/3 h-72">
               <img 
-                src="/lovable-uploads/flyer-40.png" 
+                src="/assets-upload/flyer-40.png" 
                 alt="School Bus" 
                 className="w-full h-full object-cover rounded-lg shadow-xl" 
               />

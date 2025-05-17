@@ -6,9 +6,9 @@ import { useState, useEffect } from 'react';
 import { Link as RouterLink } from 'react-router-dom';
 import T from '../T';
 const images = [
-  '/lovable-uploads/banner-01.jpg',
-  '/lovable-uploads/banner-02.jpg',
-  '/lovable-uploads/banner-03.jpg',
+  '/assets-upload/banner-01.jpg',
+  '/assets-upload/banner-02.jpg',
+  '/assets-upload/banner-03.jpg',
 ];
 
 const HeroSection = () => {
@@ -29,7 +29,7 @@ const HeroSection = () => {
       {/* <div 
         className="absolute inset-0 bg-cover bg-center bg-no-repeat" 
         style={{ 
-          backgroundImage: `url('/lovable-uploads/255e1fb3-7f89-4e07-9dee-e08e9e143833.png')`,
+          backgroundImage: `url('/assets-upload/255e1fb3-7f89-4e07-9dee-e08e9e143833.png')`,
           filter: 'brightness(0.4)',
         }}
       ></div> */}

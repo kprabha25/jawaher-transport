@@ -27,7 +27,7 @@ const AboutSection = () => {
           >
             {/* <div className="bg-jawaher-yellow absolute top-0 left-0 w-3/4 h-3/4 -z-10 transform -translate-x-6 -translate-y-6"></div>
             <img 
-              src="/lovable-uploads/flyer-01.png" 
+              src="/assets-upload/flyer-01.png" 
               alt="Jawaher Transport Team" 
               className="w-4/6 h-auto object-cover shadow-xl z-10" 
             />
@@ -35,7 +35,7 @@ const AboutSection = () => {
              */}
              <div className="bg-jawaher-yellow absolute top-0 left-0 w-1/2 h-1/2 -z-10 transform -translate-x-4 -translate-y-4"></div>
   <img 
-    src="/lovable-uploads/flyer-01.png" 
+    src="/assets-upload/flyer-01.png" 
     alt="Jawaher Transport Team" 
     className="w-4/6 h-auto object-cover shadow-xl z-10 mx-auto" 
   />
