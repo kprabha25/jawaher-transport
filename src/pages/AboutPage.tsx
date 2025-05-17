@@ -136,7 +136,7 @@ const AboutPage = () => {
                 transition={{ duration: 0.8 }}
               >
                 <img 
-                  src="/lovable-uploads/flyer-02.png" 
+                  src="/assets-upload/flyer-02.png" 
                   alt="Our Team" 
                   className="w-5/6 h-auto rounded-lg shadow-xl" 
                 />

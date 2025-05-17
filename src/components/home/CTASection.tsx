@@ -43,7 +43,7 @@ const CTASection = () => {
             <div className="relative">
               <div className="absolute top-0 left-0 w-full h-full bg-jawaher-dark/20 rounded-lg"></div>
               <img 
-                src="/lovable-uploads/flyer-04.png" 
+                src="/assets-upload/flyer-04.png" 
                 alt="School Bus" 
                 className="w-full h-auto rounded-lg" 
               />
